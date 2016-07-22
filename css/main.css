@@ -1,0 +1,71 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+.padre{
+	width: 1000px;
+	height: 500px;
+	background-color: #8CB27C;
+	margin-left: 100px;
+	margin-top: 100px;
+	position: absolute;
+}
+.hijo{
+	width: 950px;
+	height: 450px;
+	background-color: #8CB27C;
+	margin-left: 25px;
+	margin-top: 25px;
+	border: 1px solid white;
+	position: absolute;
+}
+.hijo2{
+	width: 120px;
+	height: 200px;
+	background-color: #8CB27C;
+	border-right: 1px solid white;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+	margin-left: 0px;
+	margin-top: 122px;
+	position: absolute;
+}
+.hijo3{
+	width: 120px;
+	height: 200px;
+	background-color: #8CB27C;
+	border-left: 1px solid white;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+	margin-left: 828px;
+	margin-right: 0px;
+	margin-top: 122px;
+	position: absolute;	
+}
+.circulo{
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	background-color: #8CB27C;
+	border: 1px solid white;
+	margin-left: 364px;
+	margin-top: 123px;
+	position: absolute;
+
+}
+.bola1{
+	margin-left: 106px;
+	margin-top: 136px;
+	position: absolute;
+}
+.bola2{
+	margin-left: 501px;
+	margin-top: 67px;
+	position: absolute;
+}
+.bola3{
+	margin-left: 797px;
+	margin-top: 295px;
+	position: absolute;
+}
